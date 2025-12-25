@@ -85,17 +85,27 @@ Copy code
 
 ## 📁 Project Structure
 Wallace-Tree-Multiplier/
+ Here you go 👍
+**Only the Project Structure**, clean and **ready to copy–paste**:
+
+```md
+## 📁 Project Structure
+```
+
+Wallace-Tree-Multiplier/
 |
 |-- README.md
 |-- diagrams/
-| |-- wallace_tree_architecture.png
+|   |-- wallace_tree_architecture.png
 |-- code/
-| |-- wallace_tree_multiplier.v
+|   |-- wallace_tree_multiplier.v
 |-- results/
-| |-- simulation_output.png
+|   |-- simulation_output.png
 |-- docs/
-| |-- theory.pdf
+|   |-- theory.pdf
 
+```
+```   
 yaml
 Copy code
 
