@@ -1,5 +1,5 @@
 # Wallice_tree
-# Wallace Tree Multiplier (COA Project)
+# Wallace Tree Multiplier
 
 ## 📌 Overview
 The **Wallace Tree Multiplier** is a high-speed multiplication technique used in **Computer Organization and Architecture (COA)**.  
@@ -28,3 +28,12 @@ It reduces the number of sequential addition stages by arranging partial product
 ---
 
 ## 🧩 Architecture
+Multiplier × Multiplicand
+↓
+Partial Product Generation
+↓
+Carry Save Adder (CSA) Tree
+↓
+Final Adder
+↓
+Product Output
